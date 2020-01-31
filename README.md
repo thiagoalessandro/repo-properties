@@ -1,8 +1,7 @@
 # repo-properties
 
-Exibir oarâmetos de uma consulta no HIBERNATE
-
-```json
+Exibir parâmetos de uma consulta no HIBERNATE
+```yaml
 org:
       hibernate:
         type:
